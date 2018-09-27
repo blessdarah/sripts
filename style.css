@@ -1,0 +1,43 @@
+body {
+	background: #d5d5d5;
+	font-family: Lato, helvetica, sans-serif;
+}
+
+.container {
+	width: 800px;
+	padding: 30px;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+}
+
+.container form {
+	background: white;
+	padding: 10px;
+	border: 1px solid white;
+	border-radius: 4px;
+}
+
+form input {
+    height: 30px;
+    line-height: 30px;
+}
+
+
+table th {
+	background: #f8f8f8;
+	padding: 10px 18px;
+}
+
+table td {
+	padding: 10px 18px;
+}
+
+
+
+
+
+
+
+
+
